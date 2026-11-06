@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lddbtc.github.io/sitemap.xml
